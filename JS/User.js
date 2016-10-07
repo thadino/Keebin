@@ -2,13 +2,9 @@
  * Created by dino on 29-09-2016.
  */
 
-var Sequelize = require('sequelize');
 
 
-
-
-
-
+var Sequelize = require('sequelize'); // Requires
 var FirstName = "";
 var LastName = "";
 var Email = "";
@@ -16,7 +12,7 @@ var Role = "";
 var Date = "";
 var Birthday = "";
 var Sex = "";
-var password = "";
+var password = ""; // Variable Creation
 
 function _newUser(FirstName, LastName, Email, Date, Role, Birthday, Sex, password)
 {
@@ -29,11 +25,9 @@ function _newUser(FirstName, LastName, Email, Date, Role, Birthday, Sex, passwor
     this.Sex = Sex;
     this.password = password;
 
-}
-// var john = new User("john", "Lars", "Johnson", "john@gmail.com", "10/09/2016", "Admin", "09/09/2010", "male");
-// console.log(john.Birthday);
+} // Export Functions
 
-module.exports = {newUser : _newUser};
+module.exports = {newUser : _newUser}; // Export Module
 
 
 
