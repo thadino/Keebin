@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbe6b159-6525-4353-ac99-ef176ef3cc64" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/Controller.js" afterPath="$PROJECT_DIR$/JS/Controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/User.js" afterPath="$PROJECT_DIR$/JS/User.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/DataBaseFacade.js" afterPath="$PROJECT_DIR$/JS/DataBaseFacade.js" />
     </list>
     <ignored path="Keebin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -117,19 +116,19 @@
       <file leaf-file-name="DataBaseFacade.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/DataBaseFacade.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+            <state relative-caret-position="369">
+              <caret line="146" column="63" selection-start-line="146" selection-start-column="63" selection-end-line="146" selection-end-column="63" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
                 <element signature="n#!!block;n#_newUser#0" expanded="false" />
                 <element signature="n#!!block;n#_newPass#0" expanded="false" />
-                <marker date="1475866870448" expanded="false" signature="44:162" ph="..." />
-                <marker date="1475866870448" expanded="true" signature="175:486" ph="..." />
-                <marker date="1475866870448" expanded="false" signature="513:544" ph="..." />
-                <marker date="1475866870448" expanded="false" signature="615:822" ph="..." />
-                <marker date="1475866870448" expanded="true" signature="891:3825" ph="..." />
-                <marker date="1475866870448" expanded="false" signature="3846:3966" ph="..." />
-                <marker date="1475866870448" expanded="false" signature="3985:4064" ph="..." />
+                <marker date="1475868253047" expanded="false" signature="44:162" ph="..." />
+                <marker date="1475868253047" expanded="false" signature="175:486" ph="..." />
+                <marker date="1475868253047" expanded="false" signature="513:544" ph="..." />
+                <marker date="1475868253047" expanded="false" signature="615:822" ph="..." />
+                <marker date="1475868253047" expanded="true" signature="891:3825" ph="..." />
+                <marker date="1475868253047" expanded="false" signature="3846:3966" ph="..." />
+                <marker date="1475868253047" expanded="false" signature="3985:4064" ph="..." />
               </folding>
             </state>
           </provider>
@@ -511,12 +510,12 @@
       <workItem from="1475148434054" duration="12360000" />
       <workItem from="1359929315930" duration="9000" />
       <workItem from="1359929673980" duration="9763000" />
-      <workItem from="1359929501663" duration="22164000" />
+      <workItem from="1359929501663" duration="23533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44296000" />
+    <option name="totallyTimeSpent" value="45665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -555,12 +554,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/JS/DataBaseFacade.js</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/JS/DataBaseFacade.js</url>
           <properties />
@@ -999,19 +992,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/DataBaseFacade.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        <state relative-caret-position="369">
+          <caret line="146" column="63" selection-start-line="146" selection-start-column="63" selection-end-line="146" selection-end-column="63" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
             <element signature="n#!!block;n#_newUser#0" expanded="false" />
             <element signature="n#!!block;n#_newPass#0" expanded="false" />
-            <marker date="1475866870448" expanded="false" signature="44:162" ph="..." />
-            <marker date="1475866870448" expanded="true" signature="175:486" ph="..." />
-            <marker date="1475866870448" expanded="false" signature="513:544" ph="..." />
-            <marker date="1475866870448" expanded="false" signature="615:822" ph="..." />
-            <marker date="1475866870448" expanded="true" signature="891:3825" ph="..." />
-            <marker date="1475866870448" expanded="false" signature="3846:3966" ph="..." />
-            <marker date="1475866870448" expanded="false" signature="3985:4064" ph="..." />
+            <marker date="1475868253047" expanded="false" signature="44:162" ph="..." />
+            <marker date="1475868253047" expanded="false" signature="175:486" ph="..." />
+            <marker date="1475868253047" expanded="false" signature="513:544" ph="..." />
+            <marker date="1475868253047" expanded="false" signature="615:822" ph="..." />
+            <marker date="1475868253047" expanded="true" signature="891:3825" ph="..." />
+            <marker date="1475868253047" expanded="false" signature="3846:3966" ph="..." />
+            <marker date="1475868253047" expanded="false" signature="3985:4064" ph="..." />
           </folding>
         </state>
       </provider>

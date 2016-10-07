@@ -142,3 +142,6 @@ function _newPass(newUser)
 // })  // // Search Example
 
 module.exports = {newPass : _newPass, newUser : _newUser, newRole : _newRole}; // Export Module
+
+// Spørg om rækkefølgen til define asociatoner
+// callbacks / hvordan vi laver et check på et felt i databasen
